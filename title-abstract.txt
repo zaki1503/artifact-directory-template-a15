@@ -1,5 +1,4 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
-
+Boosting Credit-bility: Improving Predictive Performance of Credit Default using XGBoost
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This project explores the enhancement of credit default predictions through sophisticated data processing techniques applied to machine learning models. Contrasting with studies that rely on raw data, we emphasize the value of processed features in boosting the efficacy of these models. An ablation study is conducted to evaluate the impact of feature engineering by comparing the performance, specifically AUC scores, of a model trained on processed data against the same model using raw inputs and a traditional credit scoring approach. Our findings aim to highlight the pivotal role of data processing in refining the predictive accuracy of machine learning algorithms in the context of financial risk assessment.
